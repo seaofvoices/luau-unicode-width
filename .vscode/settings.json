@@ -1,0 +1,5 @@
+{
+  "luau-lsp.sourcemap.autogenerate": false,
+  "luau-lsp.completion.imports.requireStyle": "alwaysRelative",
+  "luau-lsp.platform.type": "roblox"
+}
