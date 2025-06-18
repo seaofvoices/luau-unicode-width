@@ -37,7 +37,7 @@ Artifacts can also be downloaded from the [releases page](https://github.com/sea
 The package contains a single function named `width`.
 
 ```lua
-local unicodeWidth = require("luau-unicode-width")
+local unicodeWidth = require("@pkg/luau-unicode-width")
 
 local width = unicodeWidth.width("Ｈｅｌｌｏ, ｗｏｒｌｄ!")
 ```
